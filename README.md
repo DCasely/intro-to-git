@@ -1,7 +1,11 @@
-# Adding multiple files of a certain type
+# Git Branches
 
-# Adding all files in directory (including hidden)
+- Listing all branches
 
-# Removing Files
+- Adding a branch
 
-# Ignoring Files
+- Changing Branches
+
+- Merging a branch
+
+- Removing a branch
